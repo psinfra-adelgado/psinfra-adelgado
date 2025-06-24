@@ -1,1 +1,1 @@
-![](./assets/banner_v2.svg)
+![](./assets/banner_v3.svg)
