@@ -127,6 +127,6 @@ I believe in:
 
 > *"Infrastructure engineering is applied paranoia with a healthy dose of automation"*
 
-**Current mission:** Making distributed systems boring, one Kubernetes cluster at a time 🚀
+**Current mission:** Making distributed systems boring, one Kubernetes cluster at a time
 
 </div>
