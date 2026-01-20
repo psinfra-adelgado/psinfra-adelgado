@@ -41,7 +41,7 @@ status:
   sleepQuality: "Directly proportional to monitoring coverage"
 ```
 
-## 🏗️ My Infrastructure Philosophy
+## My Infrastructure Philosophy
 
 I believe in:
 - **Infrastructure as code** - If it's not in version control, it doesn't exist
@@ -54,7 +54,7 @@ I believe in:
 - **Documentation as code** - If it's not documented, it doesn't exist (yet again)
 - **Experimenting with new tech** - Innovation happens at the bleeding edge
 
-## 🔧 How I Approach Infrastructure
+## How I Approach Infrastructure
 
 **System Design:** Start with failure modes. What can break? How will we know? How will we recover? Build resilience into the foundation, not as an afterthought.
 
@@ -68,7 +68,7 @@ I believe in:
 
 **Documentation Strategy:** Documentation is infrastructure. Write it like code - version controlled, reviewed, and tested. README-driven development for infrastructure projects. Runbooks that anyone can follow.
 
-## 🛠️ Infrastructure Stack
+## Infrastructure Stack
 
 <div align="center">
 
@@ -90,7 +90,7 @@ I believe in:
 
 </div>
 
-## 📊 Current Infrastructure Challenges
+## Current Infrastructure Challenges
 
 - **Multi-cluster orchestration:** Managing Kubernetes across regions and environments
 - **Cost optimization:** Right-sizing resources without sacrificing reliability
@@ -99,7 +99,7 @@ I believe in:
 - **Open source contributions:** Contributing back to the tools we use daily
 - **Documentation systems:** Building knowledge bases that actually get used
 
-## 🎯 Infrastructure Engineering Focus Areas
+## Infrastructure Engineering Focus Areas
 
 **Platform Infrastructure:** Building systems that scale efficiently and are maintainable long-term. Focus on developer experience and operational simplicity.
 
@@ -111,7 +111,7 @@ I believe in:
 
 **Documentation Culture:** Creating and maintaining documentation that developers actually want to read. Treating docs as a first-class citizen in the development process.
 
-## 💡 Infrastructure Truths I've Learned
+## Infrastructure Truths I've Learned
 
 - The best infrastructure is the kind developers never think about
 - Every outage teaches you something your monitoring didn't catch
